@@ -1,19 +1,18 @@
 #include <iostream>
+#include <array>
 using namespace std;
  
-// Define the character size
-#define CHAR_SIZE 128
+#define CHAR_SIZE 256
  
-// A class to store a Trie node
 class Trie {
 public:
     bool isLeaf;
-    Trie* character[CHAR_SIZE];
+    array<Trie*, CHAR_SIZE> character;
  
     Trie() {
         this->isLeaf = false;
-        for (int i = 0; i < CHAR_SIZE; i++)
-            this->character[i] = nullptr;
+				for(auto ch:this->character)
+            ch = NULL;
     }
  
     void insert(string);
@@ -24,22 +23,23 @@ public:
  
 void Trie::insert(string key) {
     Trie* curr = this;
-    for (int i = 0; i < key.length(); i++) {
-        if (curr->character[key[i]] == nullptr)
-            curr->character[key[i]] = new Trie();
-        curr = curr->character[key[i]];
+    for (unsigned char c:key) {
+        if (curr->character[c] == nullptr)
+            curr->character[c] = new Trie();
+        curr = curr->character[c];
     }
     curr->isLeaf = true;
 }
  
 bool Trie::search(string key) {
-    if (this == nullptr) {
+    Trie* curr = this;
+
+    if (curr == nullptr) {
         return false;
     }
  
-    Trie* curr = this;
-    for (int i = 0; i < key.length(); i++) {
-        curr = curr->character[key[i]];
+    for (unsigned char c:key) {
+        curr = curr->character[c];
  
         if (curr == nullptr)
             return false;
@@ -63,8 +63,8 @@ bool Trie::deletion(Trie*& curr, string key) {
     if (key.length()) {
  
         if (curr != nullptr &&
-            curr->character[key[0]] != nullptr &&
-            deletion(curr->character[key[0]], key.substr(1)) &&
+            curr->character[(unsigned char)(key[0])] != nullptr &&
+            deletion(curr->character[(unsigned char)(key[0])], key.substr(1)) &&
             curr->isLeaf == false)
         {
             if (!haveChildren(curr)) {
@@ -108,25 +108,24 @@ int main() {
     head->insert("h");
     cout << head->search("h");                 // print 1
     cout << endl;
-    head->deletion(head, "hello");
     cout << head->search("hello") << " ";      // print 0
     cout << head->search("helloworld") << " "; // print 1
     cout << head->search("hell");              // print 1
     cout << endl;
-    head->deletion(head, "h");
     cout << head->search("h") << " ";          // print 0
     cout << head->search("hell") << " ";       // print 1
     cout << head->search("helloworld");        // print 1
     cout << endl;
-    head->deletion(head, "helloworld");
     cout << head->search("helloworld") << " "; // print 0
     cout << head->search("hell") << " ";       // print 1
-    head->deletion(head, "hell");
     cout << head->search("hell");              // print 0
     cout << endl;
+		
     if (head == nullptr) {
         cout << "Trie empty!!\n";              // Trie is empty now
     }
     cout << head->search("hell");              // print 0
+		cout<<'\n';
+		
     return 0;
 }
