@@ -6,7 +6,7 @@
 
 # About The build system
 
-This project is build using SCons as a build system
+This project is build using SCons 4.3.0 as a build system
 
 You can install it using pythong package manager
 
