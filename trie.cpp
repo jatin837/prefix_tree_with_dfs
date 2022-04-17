@@ -1,27 +1,17 @@
 #include <iostream>
+#include <string>
+#include <vector>
 #include <array>
-using namespace std;
+#include "trie.h"
+
  
-#define CHAR_SIZE 256
- 
-class Trie {
-public:
-    bool isLeaf;
-    array<Trie*, CHAR_SIZE> character;
- 
-    Trie() {
-        this->isLeaf = false;
-				for(auto ch:this->character)
-            ch = NULL;
-    }
- 
-    void insert(string);
-    bool deletion(Trie*&, string);
-    bool search(string);
-    bool haveChildren(Trie const*);
-};
- 
-void Trie::insert(string key) {
+Trie::Trie() {
+	this->isLeaf = false;
+	for(auto &ch:this->character)
+			ch = nullptr;
+}
+
+void Trie::insert(std::string key) {
     Trie* curr = this;
     for (unsigned char c:key) {
         if (curr->character[c] == nullptr)
@@ -31,7 +21,7 @@ void Trie::insert(string key) {
     curr->isLeaf = true;
 }
  
-bool Trie::search(string key) {
+bool Trie::search(std::string key) {
     Trie* curr = this;
 
     if (curr == nullptr) {
@@ -56,7 +46,7 @@ bool Trie::haveChildren(Trie const* curr) {
     return false;
 }
  
-bool Trie::deletion(Trie*& curr, string key) {
+bool Trie::deletion(Trie*& curr, std::string key) {
     if (curr == nullptr)
         return false;
  
@@ -95,37 +85,17 @@ bool Trie::deletion(Trie*& curr, string key) {
  
     return false;
 }
- 
-int main() {
-    Trie* head = new Trie();
-    head->insert("hello");
-    cout << head->search("hello") << " ";      // print 1
-    head->insert("helloworld");
-    cout << head->search("helloworld") << " "; // print 1
-    cout << head->search("helll") << " ";      // print 0 (Not found)
-    head->insert("hell");
-    cout << head->search("hell") << " ";       // print 1
-    head->insert("h");
-    cout << head->search("h");                 // print 1
-    cout << endl;
-    cout << head->search("hello") << " ";      // print 0
-    cout << head->search("helloworld") << " "; // print 1
-    cout << head->search("hell");              // print 1
-    cout << endl;
-    cout << head->search("h") << " ";          // print 0
-    cout << head->search("hell") << " ";       // print 1
-    cout << head->search("helloworld");        // print 1
-    cout << endl;
-    cout << head->search("helloworld") << " "; // print 0
-    cout << head->search("hell") << " ";       // print 1
-    cout << head->search("hell");              // print 0
-    cout << endl;
-		
-    if (head == nullptr) {
-        cout << "Trie empty!!\n";              // Trie is empty now
-    }
-    cout << head->search("hell");              // print 0
-		cout<<'\n';
-		
-    return 0;
+
+std::vector<std::string> Trie::suggest(std::string key){
+	// first travell to this node
+	// if this node doesn't exist, return vector of one empty string
+	// if this node exist, then do a dfs to all the childrens untill leaf node is reached and return the suggestions as a vector of string
+	//
+	std::vector<std::string>suggs;
+	Trie* curr = this;
+	for(unsigned char ch:key){
+		if(curr->character[ch] == nullptr)
+			return suggs; 
+	}
+	return std::vector<std::string>(2, "abc");
 }
