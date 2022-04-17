@@ -91,11 +91,11 @@ std::vector<std::string> Trie::suggest(std::string key){
 	// if this node doesn't exist, return vector of one empty string
 	// if this node exist, then do a dfs to all the childrens untill leaf node is reached and return the suggestions as a vector of string
 	//
-	std::vector<std::string>suggs;
-	Trie* curr = this;
-	for(unsigned char ch:key){
-		if(curr->character[ch] == nullptr)
-			return suggs; 
-	}
+//std::vector<std::string>suggs;
+//Trie* curr = this;
+//for(unsigned char ch:key){
+//	if(curr->character[ch] == nullptr)
+//		return suggs; 
+//}
 	return std::vector<std::string>(2, "abc");
 }

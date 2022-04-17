@@ -8,6 +8,7 @@
 *.obj
 *out
 
+*scon*
 # Precompiled Headers
 *.gch
 *.pch
