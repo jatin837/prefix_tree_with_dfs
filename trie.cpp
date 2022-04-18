@@ -2,13 +2,14 @@
 #include <string>
 #include <vector>
 #include <array>
+#include <stack>
 #include "trie.h"
 
  
 Trie::Trie() {
 	this->isLeaf = false;
-	for(auto &ch:this->character)
-			ch = nullptr;
+	for(auto& ch:this->character)
+        ch = nullptr;
 }
 
 void Trie::insert(std::string key) {
@@ -16,6 +17,7 @@ void Trie::insert(std::string key) {
     for (unsigned char c:key) {
         if (curr->character[c] == nullptr)
             curr->character[c] = new Trie();
+        curr -> isLeaf = false;
         curr = curr->character[c];
     }
     curr->isLeaf = true;
@@ -87,15 +89,35 @@ bool Trie::deletion(Trie*& curr, std::string key) {
 }
 
 std::vector<std::string> Trie::suggest(std::string key){
-	// first travell to this node
-	// if this node doesn't exist, return vector of one empty string
-	// if this node exist, then do a dfs to all the childrens untill leaf node is reached and return the suggestions as a vector of string
-	//
-//std::vector<std::string>suggs;
-//Trie* curr = this;
-//for(unsigned char ch:key){
-//	if(curr->character[ch] == nullptr)
-//		return suggs; 
-//}
-	return std::vector<std::string>(2, "abc");
+    std::vector<std::string>suggs(3, "abc");
+    Trie* curr = this;
+
+    for(unsigned char ch:key){
+        if(curr->character[ch] == nullptr)
+            return suggs;
+        curr = curr->character[ch];
+    }
+    
+    if(curr->isLeaf){
+        return suggs;
+    }
+
+
+
+    std::stack<Trie*> st;
+    st.push(curr);
+
+
+    while(!st.empty()){
+        curr = st.top();
+        st.pop();
+        for(int i=0; i<CHAR_SIZE; i++){
+            if(curr->character[i] != nullptr){
+                std::cout<<char(i)<<' ';
+                st.push(curr->character[i]);
+            }
+        }
+        std::cout<<'\n';
+    }
+	return suggs;
 }

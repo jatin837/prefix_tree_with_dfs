@@ -9,6 +9,7 @@
 class Trie{
 public:
 	bool isLeaf;
+	unsigned int num=69;
 	std::array<Trie*, CHAR_SIZE> character;
 	Trie();
 	void insert(std::string);
