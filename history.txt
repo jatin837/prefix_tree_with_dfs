@@ -1,0 +1,1618 @@
+ls
+clear
+history
+rm main.svg
+vim main.svg
+touch main.svg
+vim main.cpp
+./a.out
+clang++ -g main.cpp
+exit
+clang++ main.cpp
+git status
+cd ada_project/
+ks
+cd dev
+scons -c
+scons
+LS
+vim shell.c
+vim
+g++ -o out shell.o main.o
+gcc -o out main.o shell.o
+g++ -c main.cpp
+gcc -c shell.c -lreadline
+gcc shell.c -lreadline
+gcc -lreadline shell.c
+clang shell.c -lreadline
+clang shell.c
+code .
+vim trie.cpp
+scons -v
+git push
+git commit -m 'isLeaf = false on inserting a big string with prefix already existing'
+git add .
+git diff
+./out
+clang++ trie.cpp
+gdb out
+vim test.cpp
+:w
+./ou
+vim trie.
+zsh
+sl
+scons -
+file .sconsign.dblite
+vim .sconsign.dblite
+ll -a
+ll
+kate .
+git fetch && git rebase
+CC=clang CXX=clang++ scons
+CC=gcc CXX=clang++ scons
+git commit -m 'add scons build system'
+vim .gitignore
+rm Makefile
+rm trie
+:q
+./trie
+vim test.
+vim SConstruct
+rm hello*
+./hello
+vim hello.cpp
+pip install scons
+vim Makefile
+make
+git commit -m 'update codebase structure'
+vim trie.h
+g++ -o out test.o trie.o
+g++ -c test.cpp trie.cpp
+s
+clang++ -o out test.o trie.o
+clang++ -o out test.o trie.o -lc++
+clang++ -c trie.cpp
+clang++ -c test.cpp
+rm *.o
+g++ -c trie.cpp
+g++ -c test.cpp
+rm a.out
+nm
+clang++ -o trie.o trie.cpp
+clang++ -o trie.cpp
+touch trie.h
+clang++ test.cpp
+./a.out < in
+git reset --hard main
+git clean -fd
+clang++ main2.cpp -Wc++17-extensions
+clang++ main2.cpp
+vim main2.cpp
+cp main.cpp main2.cpp
+l,s
+whoami
+git fetch
+git lg
+git rebase
+git diff origin/main
+git diff ...origin
+git diff ..origin
+git remote
+git diff origin
+lg
+rm -rf UNIX_user_data/
+rm UNIX_user_data*
+rm README
+tcsh
+vim README
+vim USER3.gz
+vim USER0.gz
+tar -xvf USER1.gz
+cd UNIX_user_data/
+tar -xvf UNIX_user_data.tar.gz
+git remote add origin git@github.com:jatin837/prefix_tree_with_dfs.git
+git branch -M main
+git push -u origin main
+git commit -m 'add gitignroe'
+rm trie.cpp\~
+clar
+lss
+git commit -m 'initial commit'
+git add trie.cpp
+git reset
+git init
+cd dev/
+cd
+vim 040\ -\ Kakashi\ and\ Orochimaru\ Face-to-Face.mkv
+clear 037\ -\ The\ Rookie\ Nine\ Together\ Again.mkv
+clear -T
+clear .
+vlc 041\ -\ The\ Rivals\ Get\ Serious.mkv &
+cd Downloads/Telegram\ Desktop/
+cd ~/
+python server.py
+pip install flask
+cd Visualization-of-Dijkstras-Algorithm/
+git clone git@github.com:RachanaJayaram/Visualization-of-Dijkstras-Algorithm.git
+cd ~/gh
+okular main.pdf
+pandoc -o main.pdf main.md
+vim main.md
+cd ~/dev/FOM_REPORT/
+okular main.pdf&
+vlc 036\ -\ Clone\ vs\ Clone.mkv &
+rm *
+vlc 035\ -\ The\ Scroll\'s\ Secret.mkv &
+telegram-desktop
+fg
+bg
+ping google.com
+pandoc -o main.pdf main.md -V fontsize=12pt
+cd dev/FOM_REPORT/
+cd FOM_REPORT/
+cd ../dev/FOM_REPORT/
+exig
+hx
+vim cp/in
+cd gh
+python -i main.py
+vim main.py
+python main.py
+cd pmsm_mpc_dq_current_control/
+mkdir pmsm_mpc_dq_current_control
+cd ..
+cd mpc
+cd extern
+ls -la
+git submodule update --init --recursive
+cd myli/
+git clone git@github.com:jatin837/myli.git
+rm -rf myli
+cd myli
+git clone --recursive git@github.com:jatin837/myli.git
+mkdir ada_project
+cd ~/dev
+clisp
+lisp
+vlc 034\ -\ Akamaru\ Trembles,\ Gaara\'s\ Cruel\ Strength.mkv &
+vlc 033\ -\ Battle\ Formation,\ Ino-Shika-Cho.mkv &
+vlc 032\ -\ Sakura\ Blossoms.mkv &
+vlc 031\ -\ Bushy\ Brow\'s\ Pledge.mkv
+vlc 030\ -\ The\ Sharingan\ Revived,\ Dragon\ Flame\ Jutsu.mkv &
+vlc 029\ -\ Naruto\'s\ Counterattack,\ Never\ Give\ In.mkv &
+vlc 028\ -\ Eat\ or\ Be\ Eaten,\ Panic\ in\ the\ Forest.mkv &
+las
+vim history.txt
+history | tee history.txt
+sh
+shell
+echo $0
+brave-browser
+cd ssmex/
+vlc
+Slim@Shady1
+cd dev/rush
+vlc 027\ -\ The\ Forest\ of\ Death.mkv &
+git commit -m 'sentence tokenizing'
+git lg3
+git commit -m 'created doc container using spacy'
+git statsu
+python -imain.py
+vim out_of_time_the_weeknd
+mv text out_of_time_the_weeknd
+vim text
+cd spacy/
+mkdir spacy
+cd learn_nlp/
+mkdir learn_nlp
+learn_nlp
+python
+python -m spacy download en_core_web_sm
+pip install spacy
+zathura template.pdf
+okular template.pdf
+cd ~/dev/my-resume/
+git sttus
+systemctl suspen
+vlc 026\ -\ Special\ Report\ Live\ From\ the\ Forest\ of\ Death.mkv &
+cd Telegram\ Desktop/
+cd Downloads/
+tox
+python -m tox
+vim tox.ini
+python -m tox -epy37 -- -n test.python.test_examples
+cd qiskit-terra/
+python -m tox --version
+pip install -U tox
+which python
+python -m tox -v
+pip install tox
+git clone git@github.com:sansyrox/robyn.git
+slimshady&eminemis100%marshalmathers
+cargo
+cd qiskit
+sudo apt install glpk
+\2to3
+glpk
+pip install pandas
+pip install matplotlib
+pip install pypsa
+which pip
+jupyter-notebook
+conda install jupyterlab
+conda install jupyter-notebook
+conda
+./Miniconda3-latest-Linux-x86_64.sh
+rm -rf ~/miniconda3/
+python3 -m jupyter
+python3 -m jupyter notebook
+jupyter
+pip install notebook
+./miniconda3/bin/conda install jupyter-notebook
+pip install jupyter-notebook
+python3
+lc
+vlc 025\ -\ The\ Tenth\ Question.mkv
+vlc 024\ -\ The\ Chuunin\ Exam\ Begins.mkv
+vlc 023\ -\ Genin\ Takedown!\ All\ Nine\ Rookies\ Face\ Off.mkv &
+cd ~/Downloads/Telegram\ Desktop/
+wget -O main.cpp https://gist.githubusercontent.com/jatin837/a63859daf43bad25ea06fcd820eb6074/raw/34b30cc5b1cc07466fff69850e4ca53313153517/template.cpp
+cd ~/temp
+vlc 022\ -\ Chuunin\ Challenge,\ Rock\ Lee\ vs.\ Sasuke.mkv &
+man lsof
+lsof
+vlc 021\ -\ Identify\ Yourself,\ Powerful\ New\ Rivals.mkv &
+cd D
+vim 002\ -\ My\ Name\ is\ Konohamaru.mkv
+vlc 010\ -\ The\ Forest\ of\ Chakra.mkv
+vlc 009\ -\ Kakashi\ Sharingan\ Warrior.mkv &
+vlc 008\ -\ The\ Oath\ of\ Pain.mkv &
+vlc 006\ -\ Journey\ to\ the\ Land\ of\ the\ Waves.mkv
+vlc 007\ -\ The\ Assassin\ of\ the\ Mist.mkv &
+vim Miniconda3-latest-Linux-x86_64.sh
+python3 main.py
+cd dev/rush/
+;s
+cd rush
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+python3 bankers_algo.py
+vim bankers_algo.py
+octave
+kate bankers_algo.py
+python3 ljrf.py
+kate ljrf.py
+vim ljrf.py
+cd fcfs
+cd OS/
+cd os
+cd sem=6
+okular Hackathons\ From\ Idea\ to\ Successful\ Implementation\ \(Andreas\ Kohne,\ Volker\ Wehmeier\)\ \(z-lib.org\).pdf &
+cd Documents/
+clere
+vim temp.txt
+vim sjf_wp.py
+python3 sjf_wp.py
+cd sem
+vim octave-workspace
+file octave-workspace
+vim Relu.m
+cd class3
+cd class
+cd temp/dlann_class/
+clera
+cd leetcode/
+htop
+cd tsp
+mkdir tsp
+file exp
+sudo apt-add-repository ppa:audio-recorder/ppa
+sudo apt-get update
+sudo apt-get install audio-recorder
+okular book\ Microprocessor\ Architecture\ \ GAONKAR_book.pdf
+cd up
+man 7z
+7z
+\~
+\/
+vlc Love.And.Other.Drugs.YIFY.mkv &
+cd Love\ and\ Other\ Drugs\ \(2010\)/
+cd Videos/Movies/
+kate main.cpp
+ls -lt | less
+sudo mount /dev/cdrom /media
+ls | grep cdrom
+cd /dev
+dolphin .
+cd 096adecb-c132-4d25-9df7-3cd713314094/
+cd dj4t9n/
+cd media/
+cd mnt
+cd /
+vlc 005\ -\ You\ Failed,\ Kakashi\'s\ Final\ Decision.mkv &
+vlc 004\ -\ Pass\ or\ Fail,\ Survival\ Test.mkv &
+cd Down
+cd ../
+cd Videos/
+vim code.m
+octave code.m
+mv exp7.m code.m
+vim exp7.m code.m
+octave exp7.m
+rm exp.m
+vim exp7.m
+mv exp7.m
+kate exp.m
+octave exp.m
+mv index.m exp.m
+mv code.m index.m
+vim main.m
+octave main.m
+mv ../../code.txt code.m
+neofetch
+cd exp7
+cd sem=6/PSA/exps/
+code main.m
+mkdir exp7
+cd exps
+cd PSA/
+cd ~/leetcode
+cd ~/leetc
+mysql
+pdflatex -shell-escape main.tex
+vim exp1.tex
+vim main.tex
+cp ../../../OS/fcfs/exp1.tex .
+cp ../../../OS/fcfs/main.tex .
+cd exp5
+cd /home/dj4t9n/sem=6/OS/fcfs
+kile main.tex &
+vim index.tex
+cd ~/sem=6/OS/fcfs/
+curl https://www.cricbuzz.com/cricket-series/4061/indian-premier-league-2022/matches
+ps
+spyder .
+spyder.
+spyder
+python3 -m spyder
+pip install spyder
+kill 29663
+okular Xin-She\ Yang\ -\ Introduction\ to\ Algorithms\ for\ Data\ Mining\ and\ Machine\ Learning-Academic\ Press\ \(2019\).pdf &
+cd ~/sem=6
+which python3
+octave TestBackpropCE.m
+vim BackpropMmt.m
+cp BackpropCE.m BackpropMmt.m
+vim BackpropCE.m
+vim TestBackpropCE.m
+vim Sigmoid.m
+octave BackpropCE.m
+cp TestBackpropMmt.m TestBackpropCE.m
+touch BackpropCE.m
+screenfetch
+cmatrix
+vim TestBackpropMmt.m
+l
+vi main.rs
+cd src
+cd rush/
+vi Pipfile
+cd __pycache__/
+cd hackfeeds/
+cd Music/
+cd temp
+cd tep
+rm temp.m
+vim temp.m
+rm tmp.asm
+vim tmp.asm
+rm Sigmoid.m
+git clone git@github.com:pandas-dev/pandas.git
+pip install -e .
+cd docs
+cd radis/
+source ~/.venvs/qiskit-dev/bin/activate
+java -jar Jubin.jar&
+pdflatex template.tex&
+vim template.tex
+okular jatin-pandey-9da2a4c8-a906-4f27-92a0-ba1f94237008-certificate.pdf
+cd temp/
+ls | grep -i jatin
+cd cp
+vim The\ Curious\ Case\ of\ Benjamin\ Button\ \(2008\)\ 650mb.mkv
+vim AhaShare.com.txt
+cd The\ Curious\ Case\ of\ Benjamin\ Button\ \(2008\)/
+cd Movies/
+wget -O main.cpp https://gist.githubusercontent.com/jatin837/a63859daf43bad25ea06fcd820eb6074/raw/fd19da7b56c10e44740f908a69097115d380a0f6/template.cpp
+cd cses_problem_set/
+mkdir cses_problem_set
+cd cses
+python3 -m venv ~/.venvs/qiskit-dev
+which pytho
+git clone git@github.com:jatin837/qiskit-terra.git
+git clone git clone https://github.com/Qiskit/qiskit-terra.git
+python3 -m tox -edocs
+cd qiskit/
+git clone git@github.com:Qiskit/qiskit.git
+sudo apt install sl
+cd wsFreedomStudio/
+cd include/
+cd ../usr
+cdde
+ls | grep main
+vim main.p
+okular fundamentals-of-electrical-drives-gk-dubey-1_compress.pdf &
+cd ED/
+clang++ -g lc.cpp
+vim lc.cpp
+./a.out< in
+touch main.cpp
+cd class2
+cd dlann_class/
+sphinx-build
+pip install sphinx
+cd radis
+rm out.html u
+brave-browser out.html
+source /home/dj4t9n/.local/share/virtualenvs/hackfeeds-2O1-pkKG/bin/activate.fish
+pipenv shell
+python3 main.
+vim out.html
+git stash
+\
+doom
+emacs
+vim init.el
+vim init.e
+vim early-init.el
+cd ~/.emacs.d/
+rm .emacs
+mypy
+vim mail.py
+vim mail.
+git branch
+omf install bobthefish
+curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
+omf
+fish
+./Postman
+file Postman
+cd Postman/
+tar -xvf postman-9.15.2-linux-x64.tar.gz
+sudo apt install postman
+sudo systemctl start redis-server
+sudo systemctl start redis-server.service SER
+sudo start redis-server
+redis-server&
+redis-server
+sudo apt install redis-server
+sudo apt update
+python3 && konsole
+python3 &
+stacer
+sudo apt install stacer
+sudo apt install stracer
+python3 -m bpytop
+glances
+pip install glances
+bpytop
+bashtop
+sudo apt install bashtop
+q
+tmux
+redis
+pip install jedi autopep8 flake8 ipython importmagic yapf
+pip install
+mkdir exp5
+zathura main.pdf
+cd my-resume/
+python3 -i main.py
+cd exp4
+help visudo
+visudo
+cat main.py | xclip -selection clipboard
+xclip -i < main.cpp
+cd ../exp3
+cd exp1
+cd ~/sem=6/PSA/
+vim ~/.gitconfig
+matlab
+cd exp2
+cd exps/
+vim exp3.asm
+cd ~
+exp4
+cd psa
+gwenview network.png
+okular book.pdf &
+cp ../../../OS/fcfs/main.tex template.tex
+cd /home/dj4t9n/sem=6/PSA/exps/exp1
+cd exp1/
+4^5
+vim in
+./< in
+vim main.
+rm main.cpp
+cd ~/cp
+vim exp4.tex
+python3 p.py
+vim p.py
+vim exp3.tex
+python3 rr.py
+vim rr.py
+mv ../sjf/resSJF.png .
+vim exp2.tex
+python3 sjf.py
+mv ../sjf/sjf.py .
+cd fcfs/
+cd OS/ls
+cat in
+cd ADJLOVE/
+cd LTIME106D/
+cd MARCH221D/
+ivm
+clear && neofetch
+neofetchb
+;ls;la
+;ls
+;
+;this
+imagetops
+ce
+python3 -i parse.py
+cat line.network
+octave index.m
+vim index.m
+cp ../class1/main.py .
+cd class2/
+mkdir class2
+cd ~/temp/dlann_class/
+cd fc
+vim psn.network
+cd ~/dev/powpy/
+ls | grep pdf
+cd /home/dj4t9n/dev/my-resume
+kile template.tex&
+cd ~/dev/m
+python3 -i mail.py
+curl https://news.ycombinator.com/
+vim email
+cd /usr/share/texlive/texmf-dist/tex/latex/preprint
+vim ~/.zshrc
+vim ~/.vimrc
+pip install mypy
+cd LTIME104C/
+cd LTIME10
+mkdir LTIME106D
+cd ../cp
+sha512sum powpy.py
+sha512sum "thisis your life"
+cat this is your life | sha1sum
+sha512sum
+git push --set-upstream origin main
+git remote add origin git@github.com:jatin837/powpy.git
+git remote -v
+git remote rm origin
+vim powpy.py
+vim pow
+git commit -m 'add bus class'
+cd powpy/
+mv main.py powpy.py
+mv ../main.py .
+git clone https://github.com/jatin837/powpy
+rm -rf powpy/
+mv powpy/main.py .
+cd ~/dev/
+cd research/
+mkdir research
+touch main.py
+curl https://www.nature.com/
+curl https://arxiv.org/
+cd MINCOLOR/
+git commit -m 'solved giftshop problem'
+cat main.cpp | xclip -selection clipboard
+cp ../CHEFCHOCO/main.cpp .
+cd GFTSHP/
+mkdir GFTSHP
+cd START30D/
+cd ~/Documents/
+vim out
+git commit -m 'done'
+git add ../../
+vim log.md
+git log.md
+cd BALREV/
+mkdir BALREV
+catin
+cd CHEFBOTTLE/
+cd chef
+mkdir CHEFBOTTLE
+lldb
+cd SWAPCW/
+mkdir SWAPCW
+./a.out < IN
+vim main;
+curl https://www.codechef.com/START30D/problems/MINCOLOR
+git commit -m 'done first'
+git add ../
+mkdir MINCOLOR
+xclip main.cpp
+xclip -i main.cpp
+cd CHEFCHOCO/
+mkdir CHEFCHOCO
+cd MLIS/
+mv ../MLIS/ .
+mkdir START30D
+mkdir MLIS
+cd ~/dev/hackfeeds/
+curl https://stackoverflow.com/ | tee out.html
+lldb --help
+curl https://www.netflix.com/in/
+mkdir powpy
+git commit -m 'formated'
+vim diff
+vim mail.html
+tmux ls
+git commit -m 'prepate template from fetch'
+rm out.html
+vim Pipfile
+python -i main.
+pip install jinja2
+pipenv install jinja2
+python3 -i scrape.py
+vim scrape.py
+git commit -m 'update send email function'
+python -i mail.py
+vim .
+vim email address
+git commit -m 'move main in scrape'
+mv main.py scrape.py
+vim mail
+newton
+git commit -m 'add mail logic'
+vim .env
+vim status
+c;ear
+git commit -m 'modified resume'
+brave-browser template.html
+pandoc -o template.html template.tex
+ls | grep html
+rm resume.html
+brave-browser resume.html
+vim resume.html
+kile template.tex
+cd dev/my-resume/
+gdb a.out
+clang++ -g myappr.cpp
+vim myappr.cpp
+cd SUBSTRING/
+cd SUBSTRING/ls
+cd SUB
+cd ~/cp/MARCH221D/
+vim index.rst
+slack
+sls
+clea
+sphinx
+pip install -e .[dev] -v
+cd ~/gh/radis/
+git clone git@github.com:radis/radis.git
+cd gh/
+git stats
+git commit -m 'done' -m 'string size was not input'
+cd sub
+mkdir SUBSTRING
+rm template.cpp
+vim template.cpp
+mv ../* .
+mv ../ .
+cd SUB_XOR/
+mkdir SUB_XOR
+cd dev/hackfeeds/
+git pull
+git commit -m 'updated resume'
+vim resume.cls
+pdflatex template.tex
+kile .
+git commit -m 'using doenv'
+pipenv install python-dotenv --skip-lock
+pipenv install --skip-lock
+pipenv install python-dotenv
+pipenv install dotenv
+vim .en
+git commit -m 'refactor #1'
+vim main.py q
+git commit -m 'fetched top 30 feeds from hackernews and print headline and links'
+git reset main
+python --version
+pipenv install requests bs4
+sudo apt install pipenv
+pipenv
+pipx
+rm -rf hackfeed
+mv hackfeed/main.py hackfeeds/main.py
+git clone git@github.com:jatin837/hackfeeds.git
+python3 -i main.
+npm start --inspect
+curl https://mail.google.com/mail/u/0/
+./a.out <in
+lldb a.out<in
+clang++ -g main.
+rm input.txt output.txt
+rm main2.cpp
+vim main
+mv sol.cpp main.cpp
+mv main.cpp bf.cpp
+vim sol.cpp
+clang++ sol.cpp
+cat input.txt
+./a.out < input.txt
+accessdb
+cd ma
+vim metacall_test_cred
+npm start
+npm run
+npm run build
+npm i
+git pull --rebase upstream master
+git checkout master
+cd deploy/
+cd dev/metacall/
+cat output.txt
+vim input.txt
+mv in input.txt
+git commit -m 'my initial approach' -m 'bf'
+git add ..
+./a.out < In
+cd cp/MARCH221D/
+mkdir MARCH221D
+pip install bpytop
+cd /home/dj4t9n/dev/my-resume/src
+vim main.aux
+vim main.pdf
+vim temp.cpp
+rm template.tex
+vim template.
+pdflatex src/main.tex
+vim src/main.tex
+curl https://www.cricbuzz.com/ | tee out.html
+curl https://www.cricbuzz.com/
+riscv64-linux-gnu-objdump -d main2
+objdump -d main2
+objdump -d main
+vim main2
+qemu-riscv64 main2
+riscv64-linux-gnu-ld -o main2 main2.o
+riscv64-linux-gnu-as -march=rv64imac -o main2.o main2.S
+riscv64-linux-gnu-as -march=rv64imac -o HelloWorld.o main.S
+riscv64-linux-gnu-objdump -d HelloWorld
+vim main.S
+vim main2.S
+cd ~/sem=6/up/riscv64-linux/
+qemu-riscv64 HelloWorld
+riscv64-linux-gnu-ld -o HelloWorld HelloWorld.o
+cd riscv64-linux/
+mkdir riscv64-linux
+okular GK\ DUBEY-electrical-drive-examsfreak\ -\ Copy.pdf &
+cd rust
+mkdir rust
+git push origin cache-plan
+git commit -m 'change cache file name'
+rm cache.ts
+node cache.js
+cd dist
+tsc
+cd dist/
+mv cache.ts ./src/
+touch cache.ts
+node dist/cache.js
+rm cache.js
+tsc cache.ts
+cd test
+npm init
+cd metacall/
+cd me`
+mkdir metacall
+okular N.\ Gregory\ Mankiw\ -\ Macroeconomics-Worth\ Publishers\ \(2015\).pdf &
+cd ~/sem
+rm main.py
+git reset --hard cache-plan
+cd dev/metacall/deploy/
+cd ~/cp/COOK139C/NANDXOR/
+cd NANDXOR/
+cd nana
+mkdir NANDXOR
+cd COOK139C/
+python3 -i main2.py
+vim main2.py
+touch main2.py
+cd class1
+cd cla
+mkdir class1
+cd today/
+mkdir today
+dls
+git checkout cache-plan
+cd ../metacall/deploy/
+cd ~/dev/deploy/
+main.py
+okular EXPERIMENT-3.pdf
+cd exp3
+cd ../exp4
+cp ../exp3/main.py .
+mkdir exp4
+cd sem=6/PSA/exps/exp3/
+file a.out
+cd lldb/
+mkdir lldb
+vim main.phy
+git reset --hard master
+git checkout -b resolve
+git commit -m 'less iteration' -m 'clearly wrong'
+cd ../exp
+rm main2.py
+git commit -m 'done for first logic'
+cp ../exp2/main.py main2.py
+cd non-preemptive/
+cd priority-scheduling/
+okular ../fcfs/main.pdf&
+okular ../fcfs/main.pdf
+okular main.pdf && okular ../fcfs/main.pdf
+vim sjf.py
+vim main.tw
+vim main.tq
+cd sjf
+cd round-robin/
+mkdir non-preemptive
+rm -rf non-reemptive/
+mkdir non-reemptive
+rm -rf non-preemptivme/
+mkdir non-preemptivme
+mkdir priority-scheduling
+cd OS
+cd ../sem=6/
+cd ../sem
+./<a.out
+touch sol.cpp
+man xclip
+cat main.cpp | xclip -i
+xclip
+sudo apt install xclip
+1
+cp ../main.cpp .
+cd PMA
+mkdir PMA
+./a.out < i
+cd CCD
+mkdir CCD
+cd START29D/
+.,s
+git clone git@github.com:jatin837/vscode.git
+touch metacall_test_cred
+vim README.md
+ll -al
+curl https://google.com
+ls | objdump
+code sjf.py
+/bin/python3 -m pip install -U autopep8
+touch sjf.py
+cp ../fcfs/main.tex main.tex
+cd sjf/
+vim fcfs.py
+vim fcfs.
+cd ../fcfs/
+mkdir sjf
+cd _minted-main/
+mv Screenshot_20220308_190832.png res.png
+python3 fcfs.py
+cp ~/sem=6/PSA/exps/exp2/main.tex ./main.tex
+cd fa
+mv fcfs.cpp fcfs
+mkdir fcfs
+vim fcfs.cpp
+mkdir OS
+cd ls
+ll static/
+gwenview static/Translational-mass-with-spring-and-damper.jpg
+cd ~/dev/ssmex/
+python3 -i attempt2.py
+vim attempt2.py
+vim attq
+touch attempt2.py
+code temp.m
+touch temp.m
+okular ~/sem=6/Xin-She\ Yang\ -\ Introduction\ to\ Algorithms\ for\ Data\ Mining\ and\ Machine\ Learning-Academic\ Press\ \(2019\).pdf &
+mv nn.m ~/temp/dlann_class/
+octave nn.m
+cd ~/temp/
+vim main2.m
+kate main.m
+touch nn.m
+npm init directus-project my-project
+cd remote/
+cd ../sem=6\\user_code/
+cd project\ ideas/
+cd proj
+vim doing-business-with-os
+sudo apt upgrade
+apt list --upgradable
+neofetch | grep -i uptime
+cdss
+c
+mkdir leetcode
+python3 -i data.py
+vim data.py
+python3 data.py
+cd rnn_from_scratch/
+mkdir rnn_from_scratch
+cd ALTERNATEDIV/
+cd al
+./a.out < in | tee out
+clang++ bf.cpp
+vim bf.cpp
+vim bf
+cp main.cpp bf.cpp
+touch bf.cpp
+cd ../MEXSPLIT/
+cd FIXWEIGHT/
+kate main.py
+cd cp/
+git commit -m 'cache plan if no plan specified' -m 'update plan if passed as argument' -m 'select plan if no cache present and no args given'
+git stash apply stash@{0}
+git stash apply stash@{2}
+git stash apply stash@{1}
+git stash list
+git stash apply
+clearls
+tsc main.ts
+vim main.ts
+touch main.ts
+cd ../cp/COOK139C/
+git push -f origin master
+git push origin master
+git pull upstream master
+mkdir FIXWEIGHT
+cd .
+vim sol.py
+vim main.;
+mkdir ALTERNATEDIV
+wget
+cd MEXSPLIT/
+mkdir MEXSPLIT
+./a.out < 9n
+cd JMARKET/
+mkdir JMARKET
+rm -rf 2
+rm 2
+mkdir 2
+2 1 1 1
+3 4 3 2
+cd JGAMES/
+mkdir JGAMES
+mkdir COOK139C
+cd PERMXORITY/
+cd TRAVELLING/
+mkdir TRAVELLING
+mkdir PERMXORITY
+cd CARCHOICE/
+mkdir CARCHOICE
+lw
+cd SUNDAY/
+mkdir SUNDAY
+mv main.cpp ../main.cpp
+cd SELFDEF/
+mkdir SELFDEF
+cd START28C/
+mkdir START28C
+mv state_space_model_example/ ssmex
+git pull && git push
+git commit -m 'diverging output' -m 'incorrect'
+git commit -m 'add image'
+ls static/
+gwenview Translational-mass-with-spring-and-damper.jpg
+gwenview
+wget https://x-engineer.org/wp-content/uploads/2017/02/Translational-mass-with-spring-and-damper.jpg
+cd static
+mkdir static
+git remote add origin git@github.com:jatin837/ssmex.git
+git branch -M main
+git push -u origin main
+git push git@github.com:jatin837/ssmex.git
+cd state_space_model_example/
+mkdir state_space_model_example
+code nr.m
+python3 -i ../exp2/main.py
+sudo apt search code | grep visual
+sudo apt search code
+sudo apt search
+cd ../exp2
+gwenview network.jpeg
+cd images/
+okcate
+cd exp3/
+vim nr.py
+mv main.asm exp3.asm
+vim main.asm
+mkdir up
+cd ../../
+bash
+cd exps/exp3
+java -jar Jubin.jar
+mkdir exp3
+git clone git@github.com:jatin837/create-react-app.git
+clang++ main.
+mkdir round-robin
+vi main.py
+vim main.cp
+git ls
+cd ~/dev/metacall/deploy/
+git commit -m 'add riscv code and c code for demo'
+rm main.o
+vim main.o
+gcc -c -o main.o main.c
+vim add.S
+touch add.S
+vim main.c
+touch main.c
+git commit -m 'syntax error resolved in implementation section'
+git commit -m 'instruction example'
+git commit -m 'add about risc 5 isa'
+git commit -m 'add more contents about history and use cases of risc v'
+git add
+git remote add origin git@github.com:jatin837/riscv-example.git
+git branch -M main
+git push -u origin main
+git commit -m 'initial commit' -m 'added concepts'
+cd riscv-hello-world/
+mkdir riscv-hello-world
+git checkout -b cache-plan
+git checkout - bcache-plan
+git push origin rebase
+git checkout -b rebase
+git log
+git rebase --skip
+vim src/cli/progress.ts
+git rebase --abort
+git commit -m 'add hide in progress'
+git pull --rebase upstream
+git remote add upstream git@github.com:metacall/deploy.git
+node
+git pushy
+git commit -m 'refactor delete logic' -m 'implemented all delete logic inside try catch'
+edit
+okular Exp\ 1\ \(PSA\).pdf &
+vim package.json
+npm --version
+rm -rf ~/.npm
+cd ~/.n
+npm install
+vim ~/.npm/_logs/2022-02-28T08_58_25_085Z-debug.log
+nvm
+git clone git@github.com:jatin837/deploy.git
+rm -rf deploy/
+dd
+tree .
+node index.js
+node index.
+vim index.html
+vim client.js
+vim index.js
+cd chat-example/
+vim app.json
+curl https://socket.io/socket.io.js
+vi index.js
+vim index.
+git clone https://github.com/socketio/chat-example.git
+git clone git clone https://github.com/socketio/chat-example.git
+git remote add origin git@github.com:jatin837/cp.git
+git branch -M main
+git push -u origin main
+vim MAYOR_PARTY/
+cd algos
+git commit -m 'add gitignore'
+git commit -m 'initial commit' -m 'solved mayor party'
+git stauts
+cd MAYOR_PARTY/
+mkdir MAYOR_PARTY
+,s
+date
+./a.out < in2
+vim in2
+vi in
+cd NCOPRIMEN/
+mkdir NCOPRIMEN
+cd cp/START27C/
+rustc main.rs
+vim main.rs
+touch main.rs
+lis
+rust
+python3 -i  main.py
+python3  main.py
+mkdir dlann_class
+pwd
+cp main.cpp ./sol.cpp
+code main.cpp
+cd BINSTRING/
+cd POLYBAGS/
+cd START27C/
+zathura Discuss\ Azure\ fundamental\ comcepts.pdf
+mkdir BINSTRING
+./a.out < 9in
+g++ main.cpp
+python3 sol.py < in
+python3 sol.py
+./a.out > in
+vi ../POLYBAGS/main.cpp
+cls
+.ls
+vi main.cpp
+cd PRODUCT/
+mkdir PRODUCT
+cd ../POLYBAGS/
+mkdir POLYBAGS
+tmux attach -t 0
+cd BLACKJACK/
+mkdir BLACKJACK
+which g++
+which cc
+cc
+c++ --version
+vim c++
+which c++
+c++
+g++
+compile
+clang++
+clang
+terminator
+term
+pip install selenium
+cd scrap
+mkdir scrap
+python3 -i main3.py
+pip install beautifulsoup4
+curl https://www.youtube.com/watch?v=34Na4j8AVgA
+pip3 install torch torchvision torchaudio
+torch
+vim bugatti.obj
+vim bugatti.blend
+file bugatti.blend
+cd bugatti/
+unzip bugatti.zip
+cd ~/Downloads/
+sudo apt install blender
+reboot
+sudo snap install slack --classic
+snap
+cd /home/dj4t9n/temp/tex/kiletest
+cd /tmp/kile-Jtznab
+sudo apt install kile
+node dist/index.js
+npm build
+time python3 main.py
+node temp.js
+npm i node-cache
+vim temp.js
+sudo npm i -g node-cache
+sudo node
+sudo npm i -g node-cahche
+npm i -g node-cache
+.c
+clea3r
+kate tree.cpp
+kate temp.text
+vim temp.text
+clang++ tree.cpp
+vim tree.cpp
+okular out.pdf
+pandoc temp.md -o out.pdf
+vim temp.md
+rm temp.csv
+pandoc temp.md -t out.pdf
+mv temp.csv temp.md
+vim temp.csv
+touch temp.csv
+cd 8085/
+mkdir 8085
+./Jubin.jar
+sudo apt install slack
+git reset --hard
+git branch -a
+qemu-riscv64 ./hello
+vim hello.s
+echo status
+sudo apt install qemu-user
+qemu-riscv64
+qemu-riscv
+mv main.s hello.s
+vim main.s
+cd riscv/
+mkdir riscv
+cd ~/tem
+sudo apt install gcc-riscv64-linux-gnu
+sudo apt --fix-broken install
+apt --fix-broken install
+sudo systemctl suspend
+discord
+sudo dpkg -i discord-0.0.17.deb
+file discord-0.0.17.deb
+kate new
+pip install sympy
+ls | grep nr
+vim nr.phy
+vim psa-network.tex
+vim ls
+pip install scipy
+cp exp2/main.py nr.py
+vim exp2/main.py
+ls exp2/
+tmix
+pypy3 -m pip --version
+pip --version
+which pypy3
+pypy3
+sudo apt install pypy3
+pypy
+sudo apt install pypy
+vim main.pty
+pygmentize -V
+pdflatex main.tex -shell-escape
+pdflatex main.tex
+pygmentize -v
+pygmentize
+pip install Pygments
+pip install Pygment
+pip install pygmentize
+pip install pygments
+pdflatex main.te
+git clone git@github.com:jatin837/latex-solarized.git
+mkdir extern
+pdflatex code.tex
+vim code.tex
+mv ./images/calc-1.jpeg ./images/calc1.jpeg
+ls images/
+okular main.p
+mv network.jpeg images/
+mkdir images
+cd ~/sem=6/PSA/exps/exp2/
+mv ./main.tex ~/sem=6/PSA/exps/exp2/main.tex
+cd tex/
+ls | grep tex
+rm temp.pdf
+rm temp.tex
+vim temp.tex
+rm exp1.*
+rm exp.tex
+vim exp.tex
+okular code.pdf
+mv main2.py main.py
+python3 main2.py
+okular code.p
+okular guss
+cd exp
+iwconfig
+iwconfdig
+man depmod
+depmod
+sudo apt install gedit
+gedit
+cd p1/
+mkdir p1
+cd gfg-coders-combat/
+mkdir gfg-coders-combat
+pdflatex cv.tex
+vim muratcan_cv.cls
+cd ../test/
+touch muratcan_cv.cls
+vim cl.tex
+vim cv.tex
+mkdir test
+pdflatex main.
+vim projects.md
+git clone git@github.com:jatin837/my-resume.git
+sudo apt install octave-gui
+octave-gui
+whatis open
+file open
+which open
+open
+sudo apt install octave
+cd PSA/exps/exp2/
+dmidecode
+sudo apt install sxiv
+sxiv
+sudo apt install zathura
+zathura
+cd temp/tex/
+okular 2.GAUSS_TUT.pdf &
+mkdir tex
+cd ../temp/
+cd riscv-gnu-toolchain/
+git clone https://github.com/riscv/riscv-gnu-toolchain.git
+mkdir gh
+sudo apt-get install autoconf automake autotools-dev curl \
+  libmpc-dev libmpfr-dev libgmp-dev gawk build-essential \
+  bison flex texinfo gperf libtool patchutils bc zlib1g-dev
+vim .config
+cd lxf/linux/
+sudo dpkg -i linux*.deb
+sudo make modules_install
+cd kernel/
+sudo apt install binutils
+sudo dpkg -s binutils
+sudo su
+sudo su -c "make modules_install install"
+su
+su -c "make modules_install install"
+make -j2 all
+make xconfig
+cp /boot/config-5.13.0-27-generic .config
+ls /boot
+git branch -a | grep linux-5 \
+    remotes/origin/linux-5.12.y \
+    remotes/origin/linux-5.11.y \
+    remotes/origin/linux-5.10.
+git branch -a | grep linux-5
+    remotes/origin/linux-5.12.y
+    remotes/origin/linux-5.11.y
+    remotes/origin/linux-5.10.y
+rustc
+clang -lreadline main.c
+clang main.c
+sudo apt-get install -y libreadline-dev
+gcc main.c
+sudo apt-get install libreadline6 libreadline6-dev
+sudo apt-get install lib32readline7 lib32readline-dev
+file /usr/bin/snap
+which snap
+sudo snap
+which nvm
+which nv
+which man
+man ls
+ll -l
+./arch
+clear && ./a.out < in2
+sudo apt install tree
+tree
+cd linux
+git clone git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+cd lxf
+cd linux-stable-rc/
+ls -r
+uname -mrs
+sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-dev bc flex libelf-dev bison
+neofetcj
+clang++ fcfs.cpp
+cp ../BADMINTON/main.cpp .
+vim ../BADMINTON/main.cpp
+cd ORANDCON/
+mkdir "ORANDCON"
+cd EVMHACK/
+cd EV
+mkdir "EVMHACK"
+cd AVOIDCONTACT/
+mkdir "AVOIDCONTACT"
+cd BADMINTON/
+mkdir "BADMINTON"
+cd ../START24C/
+cd START22C/
+mkdir "START24C"
+vim backup.dat
+which java
+java
+sudo apt remove openjdk-17-jre-headless
+sudo apt remove openjdk-11-jdk-headless
+sudo apt install openjdk-11-jdk
+java -jar
+sudo chmod a+rx Jubin.jar
+sudo apt-get install binfmt-support
+vim Jubin.jar
+file Jubin.jar
+cd sem=6/
+sudo apt install default-jdk
+javac
+sudo apt install openjdk-17-jre-headless
+npm run typing
+type
+typing --version
+npm run typing --version
+sudo npm i -g typing
+vim index.ts
+npm i source-map-support --save
+tsc --version
+cd emacs/
+vim emacs.el
+vim emacs
+cd .dotfiles/
+tsc -h
+npm root -g
+sudo npm i -g typescript
+npm i -g
+cd ../Documents/
+ls /sys/kernel/
+grep -r vmlin
+ls | grep vmlin
+git grep -r DEBUG
+git grep -r KASAN
+git grep
+cd ~/lxf/linux-stable-rc/
+alert
+crit
+man rsync
+rsync
+man patch
+patch
+make M=drivers/media/test-drivers/vimc/
+make drivers/media/test-drivers/vimc/
+make drivers/media/test-drivers/vimc
+make kernel
+make kernel/iomem.o
+sudo make module_install
+sudo apt install pkg-config
+pkg-config
+make menuconfig
+make listnewconfig
+rm .config
+make clean
+sudo apt-get install build-essential libncurses-dev bison flex libssl-dev libelf-dev
+make LSMOD=/tmp/mods localmodconfig
+make oldconfig
+git checkout linux-5.16.y
+uname -a
+cat /tmp/mods
+lsmod > /tmp/mods
+lsmod
+git checkout -b work
+git fetch linux
+git remote -a
+git remote add linux git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+git commit -m 'add logo'
+git commit -sam 'add logo and proposal'
+rm ../proposal.pdf
+rm -rf ../.kdev4/
+rm ../.kdev4/
+rm ../rush.kdev4
+git commit -s
+cd ~/dev/rush
+gpg --armor --export 21FFE12E61F9F7EE
+gpg --list-secret-keys --keyid-format=LONG
+gpg --full-generate-key
+gpg --version
+vim .gnupg/pubring.kbx
+vim .gnupg/trustdb.gpg
+gpg --list-secret-keys --keyid-format=long
+vim .gitconfig
+rm testk.kdev4
+kdevelop testk.kdev4
+vim testk.kdev4
+cd testk
+okular PSA\ Lec-1.pdf
+cp main.py sol.py
+man dmidecode
+sudo dmidecode | grep memory
+sudo dmidecode | grep MEMORY
+sudo dmidecode | grep DDR
+sudo dmidecode
+dmidecode -16
+mv out.pdf proposal.pdf
+pandoc os.proposal.md -o out.pdf
+okular out.pdf&
+pandoc os.proposal.md -o out.pdf -f markdown+implicit_figures
+earl
+vim os.proposal.md
+mv download.jpeg dtu.logo.jpeg
+git commit -m 'add proposal markdown'
+cp ~/sem=6/project\ ideas/os.proposal.md .
+pandoc os.proposal.md -t out.pdf
+cd lxd
+mkdir swapfiles
+cd .vim
+vim .vimrc
+vim im
+kaccess
+cd PERMXORSUM/
+mkdir "PERMXORSUM"
+cd cp/LTIME104C/
+cd cp/LTIME104C/PREZ/
+cp in in2
+g++ sol.cpp
+rm sol.cpp
+cd PREZ/
+mkdir "PREZ"
+rclear
+cd SUBPERM/
+mkdir "SUBPERM"
+cd SUBSTADD/
+mkdir "SUBSTADD"
+ls ..
+cd LOCKDRAW/
+mkdir "LOCKDRAW"
+man cmp
+cmp
+cat main.cpp
+mkdir "LTIME104C"
+fadf;jakzl
+ls - la | grep cargo
+ls | grep cargo
+cargo run
+which vim
+which vimn
+which ls
+vim src/main.rs
+cd .cargo/
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cd Templates/
+cd dijkstra/
+mkdir dijkstra
+rm dijkstra
+touch dijkstra
+cd algos/
+mkdir algos
+man mokutil
+mokutil
+vim dmesg_current
+sudo dmesg -t > dmesg_current
+dmesg -t > dmesg_current
+dmesg
+whatis lsmod
+lsmod | grep rtl
+git clone git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable-rc.git/
+rm -rf linux-5.17-rc1/
+rm linux-5.17-rc1*
+perl scripts/get_maintainer.pl -f ./arch/arm/boot/install.sh
+perl scripts/get_maintainer.pl
+sudo apt install cregit
+cregit
+ls -h
+cd linux-5.17-rc1/
+tar -xvf linux-5.17-rc1.tar.gz
+rm linux-5.16.3.tar.xz
+mkdir lxf
+ll Pictures/
+ls Pictures/
+eit
+cd ../exp1
+python2
+c++ main.cpp
+cd sem=6/PSA/exps/exp2/
+pip install numpy
+mkdir exp2
+pdflatex
+pdflatex lab_report_1.tex
+vim data.tex
+/usr/bin/fish
+chsh
+ls -la .ssh/
+ssh-keygen -t ed25519 -C "pandeyjatin47@gmail.com"
+ssh-keygen -t ed25519 -c "pandeyjatin47@gmail.com"
+mkdir dev
+git --version
+git -V
+git _v
+git -v
+git
+sudo apt install python3-pip
+pip
+ide
+sudo apt install git
+sudo vim /etc/apt/sources.list
+vim /etc/apt/sources.list
+ranger
+sudo apt install zsh
+xit
+sudo apt install brave-browser
+echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+sudo apt install apt-transport-https curl
+sudo apt install vim
+ip addr
+ifconfig
+nc
+netcat
+sudo apt install htop
+sudo apt install --fix-missing
+sudo apt update --fix-missing
+sudo apt --fix-missing
+sudo apt-get update

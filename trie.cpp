@@ -87,7 +87,6 @@ bool Trie::deletion(Trie*& curr, std::string key) {
  
     return false;
 }
-
 std::vector<std::string> Trie::suggest(std::string key){
     std::vector<std::string>suggs(3, "abc");
     Trie* curr = this;
